@@ -1,2 +1,63 @@
 # OAN_Music
 Highly advanced and secure , 🔗𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 : https://t.me/Attitude_Network
+
+
+
+# ཧᜰ꙰ꦿ➢𝐎𝐀𝐍༒☛ 
+
+</p>
+
+
+🎧Advanced 𝐎𝐀𝐍 Music bot.
+
+</p>
+
+🔗𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 : @Attitude_Network
+
+</p>
+
+<p align="center"><a href="Https://t.me/OAN_Support"><img src="https://telegra.ph/file/9245aebfee162bfbe951d.jpg" width="300"></a></p>
+
+</p>
+
+# Highly advanced User Music Bot
+
+
+
+</p>
+
+## .🅡🅔🅟🅞 🅢🅣🅐🅣🅢.
+
+</p>
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ItsAttitudeking&repo=OAN_Music&theme=dark)
+
+</p>
+
+## .ᴜᴩᴅᴀᴛᴇꜱ🔊
+
+[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-Attitude_Network-red?style=for-the-badge&logo=telegram)](https://t.me/@Attitude_Network)</br></br>
+
+</p>
+
+## .ꜱᴜᴩᴩᴏʀᴛ🔧
+
+[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-OAN_Support-red?style=for-the-badge&logo=telegram)](https://t.me/OAN_Support)</br></br>
+
+</p>
+
+## .ᴏᴡɴᴇʀ👑
+
+[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ItsAttitudeking)
+
+</p>
+
+## .ʀᴇᴩʟ.
+
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AttitudeNetwork/AttitudeNetwork#main.py)
+
+</p>
+
+## .ᴅᴇᴩʟᴏy.
+
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsAttitudeking/Oan_Music)
