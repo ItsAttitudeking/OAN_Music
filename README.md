@@ -51,12 +51,12 @@
 
 </p>
 
-## .ʀᴇᴩʟ.
+## .ʀᴇᴩʟ🌀
 
 > [![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AttitudeNetwork/AttitudeNetwork#main.py)
 
 </p>
 
-## .ᴅᴇᴩʟᴏy.
+## .ᴅᴇᴩʟᴏy📥
 
 > [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsAttitudeking/Oan_Music)
