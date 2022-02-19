@@ -1,7 +1,7 @@
 {
   "name": "OAN MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by @Attitude_Network.",
-   "logo": "",
+   "logo": "https://telegra.ph/file/6e2ab05382cf91185b4fe.jpg",
    "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/",
   "stack": "container",
@@ -31,7 +31,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space) jayada oversmart mat banna mari id hata ke nahi to 👿.",
+      "description": "List of user IDs counted as admin everywhere (separated by space) jayada oversmart mat banna mari id hata ke.",
       "required": false,
       "value": "1836386247"
     },
